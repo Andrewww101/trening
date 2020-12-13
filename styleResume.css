@@ -1,0 +1,19 @@
+body {font-size: 20px;
+}
+.skills {background-color: black; color: aqua; margin: 3px;}
+.my1 {font-size: 22px; font-family: monospace;}
+footer {background-color: cornsilk;}
+.oneC {text-decoration:underline; padding: 2px; font-family: fantasy;}
+h1 {color: blueviolet;
+text-align: center;
+    background-color: honeydew;}
+.myskills {text-decoration:underline; border: 10px; border-color: white;
+text-decoration-color: chocolate;}
+nav ul {border: 3px solid black;}
+footer {text-align: center;}
+.ssilka {color: darkslategray; text-decoration: none;}
+.container {display: flex; margin-left: 1px;}
+.box-2 {margin-left: 10px;}
+.box-1 {padding-right: 1px;}
+.container-2 {display: flex; justify-content: flex-end; align-items: flex-start;}
+.box-3 {}
